@@ -21,7 +21,7 @@ global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දා�
 global.REACT_NUMBER = '9476342733' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
+global.owner = ['94717189173',''] //මෙතන number එක.
 global.premium = ['9476342733','9476342733'] //මෙතන number එක.
 global.botname = 'VIHANGA BOT INC' //මෙතන නම.
 global.ownername = 'Vihanga MD' //මෙතන නම.
